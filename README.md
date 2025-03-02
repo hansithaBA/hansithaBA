@@ -23,8 +23,8 @@
 </p>
 <br>
 
-<br><br> 
-</p>
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=hansithaBA&label=Profile%20views&color=0e75b6&style=flat" alt="hansithaBA" /> </p>
 
 
 
