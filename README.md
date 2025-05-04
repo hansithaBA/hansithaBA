@@ -1,6 +1,7 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hi+👋+I+am+Hansitha+Bandara;A+Passionate+Developer;Welcome+to+My+GitHub!&font=Fira%20Code&center=true&vCenter=true&width=600&height=60&duration=3000&pause=1000&color=FFA500&size=24" alt="Typing Animation">
-</h1>
+<h1 align="center">Hi 👋, I'm Hansitha Bandara</h1>
+<h3 align="center">Full stack developer and UI/UX Developer</h3>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=hansithaBA&label=Profile%20views&color=0e75b6&style=flat" alt="hansithaBA" /> </p>
+
 <h3 align="center">👨‍💻 About Me </h3>
 
 - 🌱 I’m currently learning **JavaScript, PHP**  
@@ -22,9 +23,10 @@
  </a>
 </p>
 <br>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hansithaBA&" alt="nanayakkaraar" /></p>
 
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=hansithaBA&label=Profile%20views&color=0e75b6&style=flat" alt="hansithaBA" /> </p>
+
 
 
 
