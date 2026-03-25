@@ -4,12 +4,9 @@
 
 <h3 align="center">👨‍💻 About Me </h3>
 
-- 🌱 I’m currently learning **JavaScript, PHP**  
-
-- 🌍 Currently working on a **web-based project** using **HTML, CSS, PHP, JavaScript, MySQL, and Bootstrap**
-   
-- 💻 Developing a **desktop application** and **authentication system** using **C# (Windows Forms)**   
-   
+- 🚀 Currently working on **NPark**, a web application featuring **Supabase** migration and **PayPal** payment integration.
+- 🌍 Exploring the hardware side with an **IoT-based Cargo Monitoring System**.
+- 🌱 I’m currently leveling up my skills in **Flutter development**, **Software Quality Assurance (QA)**, and **Python**.
 - 📫 How to reach me: **hansitha1bandara@gmail.com**
 
   <h3 align="center">Connect with me:</h3>
@@ -19,7 +16,7 @@
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
 <a href="https://skillicons.dev"> 
-<img src="https://skillicons.dev/icons?i=html,css,js,java,php,py,c,cs,git,github,bootstrap,mysql,vscode,visualstudio"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,java,php,py,c,cs,git,github,bootstrap,mysql,vscode,visualstudio,react,supabase,typescript,flutter,dart"/>
  </a>
 </p>
 <br>
