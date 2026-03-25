@@ -4,7 +4,7 @@
 
 <h3 align="center">👨‍💻 About Me </h3>
 
-- 🚀 Currently working on **NPark**, a web application featuring **Supabase** migration and **PayPal** payment integration.
+- 🚀 Currently working on **NPark**, a web and mobile application featuring **Supabase** migration and **PayPal** payment integration.
 - 🌍 Exploring the hardware side with an **IoT-based Cargo Monitoring System**.
 - 🌱 I’m currently leveling up my skills in **Flutter development**, **Software Quality Assurance (QA)**, and **Python**.
 - 📫 How to reach me: **hansitha1bandara@gmail.com**
