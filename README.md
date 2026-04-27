@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hansitha Bandara</h1>
 <h3 align="center">Full stack developer and UI/UX Developer</h3>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=hansithaBA&label=Profile%20views&color=0e75b6&style=flat" alt="hansithaBA" /> </p>
+
 
 <h3 align="center">👨‍💻 About Me </h3>
 
